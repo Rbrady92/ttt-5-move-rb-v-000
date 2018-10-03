@@ -8,4 +8,4 @@ puts "Please give your name:"
 name = gets.strip
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Where would you like to go?"
-index = gets.strip
+input = gets.strip
